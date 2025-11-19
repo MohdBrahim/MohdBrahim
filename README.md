@@ -34,6 +34,19 @@ I love transforming raw data into meaningful insights, making data pipelines dep
 
 ---
 
+### 🔄 ETL / ELT Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Alteryx-0078AA?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Talend%20Open%20Studio-FF6D00?style=for-the-badge&logo=talend&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-2C2C2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Informatica%20IDMC-EF3B2D?style=for-the-badge&logo=informatica&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-FF9900?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20DataStage-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+--- 
 ### 🛠️ Data Engineering Tools
 
 <p align="left">
@@ -46,7 +59,17 @@ I love transforming raw data into meaningful insights, making data pipelines dep
 ---
 
 ### 🏗️ Big Data Ecosystem
-<img src="https://skillicons.dev/icons?i=hadoop,spark,kafka" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Beam-FBB040?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-1D4ED8?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20HBase-0E4C92?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
 ---
 
